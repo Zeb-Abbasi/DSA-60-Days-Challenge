@@ -1,5 +1,5 @@
 <script>
-    let string = '   Hello Ameer  Hamza   ';
+    let string = '   My name  is zeb   ';
     let trimmedString = string.trim();
     let length = trimmedString.length;
     let count = 0;  
